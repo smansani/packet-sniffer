@@ -1,0 +1,199 @@
+[2024-10-27 20:15:41] Protocol: TCP, Source: 142.250.77.106, Destination: 172.18.220.6, Size: 92 bytes, TTL: 120, Flags: 
+[2024-10-27 20:15:41] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 66 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:41] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 60 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:41] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 153 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:42] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 3804 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:42] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 836 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:42] Protocol: TCP, Source: 142.250.71.42, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 120, Flags: 
+[2024-10-27 20:15:42] Protocol: TCP, Source: 142.250.71.42, Destination: 172.18.220.6, Size: 1295 bytes, TTL: 120, Flags: 
+[2024-10-27 20:15:42] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 60 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:42] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 157 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:42] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 519 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:42] Protocol: TCP, Source: 142.250.77.106, Destination: 172.18.220.6, Size: 174 bytes, TTL: 120, Flags: 
+[2024-10-27 20:15:42] Protocol: TCP, Source: 142.250.77.106, Destination: 172.18.220.6, Size: 60 bytes, TTL: 56, Flags: 
+[2024-10-27 20:15:42] Protocol: TCP, Source: 142.250.77.106, Destination: 172.18.220.6, Size: 420 bytes, TTL: 56, Flags: 
+[2024-10-27 20:15:42] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 60 bytes, TTL: 102, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 153 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:43] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:44] Protocol: TCP, Source: 13.107.246.72, Destination: 172.18.220.6, Size: 60 bytes, TTL: 48, Flags: DF
+[2024-10-27 20:15:44] Protocol: TCP, Source: 13.107.246.72, Destination: 172.18.220.6, Size: 93 bytes, TTL: 48, Flags: DF
+[2024-10-27 20:15:44] Protocol: TCP, Source: 13.107.246.72, Destination: 172.18.220.6, Size: 390 bytes, TTL: 48, Flags: DF
+[2024-10-27 20:15:44] Protocol: TCP, Source: 142.250.195.46, Destination: 172.18.220.6, Size: 66 bytes, TTL: 56, Flags: 
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 60 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 89 bytes, TTL: 106, Flags: DF
+[2024-10-27 20:15:45] Protocol: TCP, Source: 52.168.117.169, Destination: 172.18.220.6, Size: 154 bytes, TTL: 106, Flags: DF
+[2024-10-27 21:25:21] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 60 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:21] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 66 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 153 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 635 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 11304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 210 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 12554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 12554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 8804 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 6304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 6304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 12554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 12554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 12554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 11304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 3804 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 8804 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 23.53.240.171, Destination: 172.18.220.6, Size: 1284 bytes, TTL: 56, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 3804 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 836 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 60 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 157 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 519 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:22] Protocol: TCP, Source: 20.189.173.12, Destination: 172.18.220.6, Size: 60 bytes, TTL: 102, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 142.251.175.188, Destination: 172.18.220.6, Size: 66 bytes, TTL: 119, Flags: 
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 93 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:23] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:24] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 179 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:24] Protocol: TCP, Source: 216.239.32.223, Destination: 172.18.220.6, Size: 54 bytes, TTL: 120, Flags: DF
+[2024-10-27 21:25:24] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 66 bytes, TTL: 55, Flags: DF
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 60 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 60 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 153 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 66 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 3804 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 400 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1157 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 564 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 193 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:24] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 60 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 2554 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 1304 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 117.18.232.200, Destination: 172.18.220.6, Size: 194 bytes, TTL: 55, Flags: 
+[2024-10-27 21:25:25] Protocol: TCP, Source: 31.13.79.54, Destination: 172.18.220.6, Size: 216 bytes, TTL: 52, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 104.16.102.112, Destination: 172.18.220.6, Size: 92 bytes, TTL: 51, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 31.13.79.54, Destination: 172.18.220.6, Size: 60 bytes, TTL: 52, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 89 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 60 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 104.16.102.112, Destination: 172.18.220.6, Size: 60 bytes, TTL: 51, Flags: DF
+[2024-10-27 21:25:25] Protocol: TCP, Source: 20.42.65.85, Destination: 172.18.220.6, Size: 154 bytes, TTL: 107, Flags: DF
+[2024-10-27 21:25:26] Protocol: TCP, Source: 104.16.102.112, Destination: 172.18.220.6, Size: 60 bytes, TTL: 51, Flags: DF
+[2024-10-27 21:25:26] Protocol: TCP, Source: 104.16.102.112, Destination: 172.18.220.6, Size: 92 bytes, TTL: 51, Flags: DF
